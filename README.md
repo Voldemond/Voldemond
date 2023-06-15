@@ -1,24 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal More</h1>
 <h3 align="center">Tech Journeyman | Embracing Challenges, Unleashing Potential</h3>
-<h5 align="left">👋 Hey there! I'm Kunal More, an avid explorer of the vast realm of technology. Currently pursuing my B.E. in IT from Mumbai University, I'm on an exhilarating journey of learning and embracing the wonders of new technologies.
 
-💡 Knowledgeable, performance-driven, and a stickler for details, I'm an IT enthusiast with an insatiable thirst for growth. I thrive on challenges and strive to push my limits to conquer new horizons in my career.
-
-💻 Tech Wizardry:
-- Proficient in the enchanting languages of C and Java, conjuring up elegant code spells.
-- Master of HTML and CSS incantations for crafting bewitching front-end web experiences.
-- I've tamed mighty databases like MySQL, harnessing their powers to fuel dynamic applications.
-- With Python as my trusty wand, I've conjured up magical solutions for various tasks.
-- I've also dabbled in the arcane arts of Amazon AWS and Firebase, wielding cloud services like spells of efficiency.
-- Proficient in the mystical realm of Microsoft Office, including Excel, Word, and PowerPoint.
-
-⚙️ Pursuits of Passion:
-- I'm enchanted by the realm of DevOps and backend sorcery, continuously honing my skills to create seamless digital experiences.
-- I'm an ardent seeker of hidden treasures in the realms of blockchain and Web 3.0, unlocking their potential to reshape the future.
-
-🌟 Join me on this thrilling odyssey of technology, where innovation knows no bounds! Let's collaborate, connect, and conjure extraordinary solutions together. Feel free to reach out and embark on this magical adventure!
-
-</h5>
 
 <img aligh="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
