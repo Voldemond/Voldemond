@@ -2,7 +2,7 @@
 <h3 align="center">Tech Journeyman | Embracing Challenges, Unleashing Potential</h3>
 
 
-<img aligh="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voldemond&label=Profile%20views&color=0e75b6&style=flat" alt="voldemond" /> </p>
 
