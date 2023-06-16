@@ -16,7 +16,8 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **morekunal1335@gmail.com**
-- 
+
+- 📄 Know about my experiences at [Resume_3.pdf](https://github.com/Voldemond/Snake-Game/files/11770416/Resume_3.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
