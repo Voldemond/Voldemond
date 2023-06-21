@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://typingtechbyte.hashnode.dev/](https://typingtechbyte.hashnode.dev/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java,Spring**
 
 - 📫 How to reach me **morekunal1335@gmail.com**
 
