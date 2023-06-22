@@ -1,4 +1,4 @@
-8![logo](https://github.com/Voldemond/Voldemond/blob/main/Github%20Banner.png)
+![logo](https://github.com/Voldemond/Voldemond/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kunal More</h1>
 <h3 align="center">Tech Journeyman | Embracing Challenges, Unleashing Potential</h3>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://typingtechbyte.hashnode.dev/](https://typingtechbyte.hashnode.dev/)
 
-- 💬 Ask me about **Java,Spring**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **morekunal1335@gmail.com**
 
