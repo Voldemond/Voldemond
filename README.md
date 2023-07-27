@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring , Hibernate , Apache Structs**
 
-- 👨‍💻 All of my projects are available at [https://voldemond.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at https://voldemond.github.io/Portfolio/
 
 - 📝 I regularly write articles on [https://typingtechbyte.hashnode.dev/](https://typingtechbyte.hashnode.dev/)
 
