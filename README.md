@@ -17,7 +17,7 @@
 
 - 📫 How to reach me- **morekunal1335@gmail.com**
 
-- 📄 Know about my experiences at [Kunal.dev](https://github.com/Voldemond/Snake-Game/files/11770416/Resume_3.pdf)
+- 📄 Know about my experiences at [Kunal.dev](https://github.com/Voldemond/Voldemond/blob/main/Kunal_More_Resume_24.pdf)
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
